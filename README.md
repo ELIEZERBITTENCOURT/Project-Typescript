@@ -4,13 +4,13 @@ Neste projeto Temos alguns Endpoints Base que podem ser extendidos da forma mais
 
 ## Usuários
 
--_GET/user_
--_GET/user/:uuid_
--_POST/users_
--_PUT/users/:uuid_
--_DELETE/users/:uuid_
+- _GET/user_ <br>
+- _GET/user/:uuid_ <br>
+- _POST/users_ <br>
+- _PUT/users/:uuid_ <br>
+- _DELETE/users/:uuid_ <br>
 
 ## Autenticação
 
--_POST/token_
--_POST/token/validate_
+- _POST/token_ <br>
+- _POST/token/validate_ <br>
