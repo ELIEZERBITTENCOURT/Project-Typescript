@@ -1,6 +1,6 @@
-# Microserviço de autenticação com Node.js
+# Microserviço de autenticação com Node.js & Typescript
 
-Neste projeto Temos alguns Endpoints Base que podem ser extendidos da forma mais adequada para seu contexto.
+Neste projeto temos alguns Endpoints Base que podem ser extendidos da forma mais adequada para seu contexto.
 
 ## Usuários
 
